@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Playwrite+IT+Moderna:wght@100..400&family=Sigmar&display=swap');
+#centre h1{
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
